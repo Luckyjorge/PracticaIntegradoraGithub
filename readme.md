@@ -1,4 +1,4 @@
-# JS 101 Práctica integradora
+# JS 101 Práctica integradora de Jorge e Ismael
 
 Objetivo
 Vamos a armar una app de tareas que nos permita manipular las mismas utilizando las herramientas que hasta el momento hemos aprendido.
